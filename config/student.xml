@@ -1,7 +1,7 @@
 <student firstName = "Martin" lastName = "Zakov">
-	<favorite-ide>ide</favorite-ide>
-	<favorite-language>Lang</favorite-language>
-	<favorite-paradigm>Paradigm</favorite-paradigm>
+	<favorite-ide>Eclipse</favorite-ide>
+	<favorite-language>Java</favorite-language>
+	<favorite-paradigm>Object-oriented</favorite-paradigm>
 </student>
 
 

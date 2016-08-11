@@ -48,7 +48,6 @@ public class Server extends Utils {
 		(	
 				ServerSocket ss =new ServerSocket(Config.getLocal().getPort());
 				Socket s = ss.accept();
-				//waits here
     			OutputStream out = s.getOutputStream();
 				
 		){

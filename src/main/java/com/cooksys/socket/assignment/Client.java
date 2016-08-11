@@ -15,8 +15,7 @@ import com.cooksys.socket.assignment.model.Student;
 public class Client {
 
     public static void main(String[] args) throws UnknownHostException, IOException, JAXBException {
-        // TODO
-    	Unmarshaller unmarshaller = Utils.createJAXBContext().createUnmarshaller();
+      	Unmarshaller unmarshaller = Utils.createJAXBContext().createUnmarshaller();
        	File file = new File("config/config.xml");
        	Config Config =(Config)unmarshaller.unmarshal(file);
    	
