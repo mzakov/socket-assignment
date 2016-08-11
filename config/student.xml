@@ -1,1 +1,11 @@
-<student/>
+<student firstName = "Martin" lastName = "Zakov">
+	<favorite-ide>ide</favorite-ide>
+	<favorite-language>Lang</favorite-language>
+	<favorite-paradigm>Paradigm</favorite-paradigm>
+</student>
+
+
+
+
+
+
